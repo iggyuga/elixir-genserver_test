@@ -1,6 +1,6 @@
 # Genserver
 
-**TODO: Add description**
+This is a sample simulation of genserver in elixir
 
 ## Installation
 
